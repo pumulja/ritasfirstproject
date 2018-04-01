@@ -6,3 +6,8 @@ ul
   background: black;
   text-transform:uppercase;
 }
+
+.sms {
+	display: none;
+
+}
